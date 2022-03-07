@@ -1,5 +1,5 @@
 # tda-crocker
-Replication code for "Capturing dynamics of time-varying data via topology" by Lu Xian, Henry Adams, Chad M. Topaz, Lori Ziegelmeier, https://www.aimsciences.org/article/doi/10.3934/fods.2021033
+Replication code of "Capturing dynamics of time-varying data via topology" by Lu Xian, Henry Adams, Chad M. Topaz, Lori Ziegelmeier, https://www.aimsciences.org/article/doi/10.3934/fods.2021033
 
 ## Simulating biological aggregation data with the Vicsek model
 1. vicsek.m
